@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div>
+   <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idba01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
