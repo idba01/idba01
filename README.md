@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![](https://visitcount.itsvg.in/api?id=Idba1&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <div>
    <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=idba01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
